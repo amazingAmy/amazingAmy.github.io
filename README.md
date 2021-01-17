@@ -6,17 +6,17 @@ xiaoli.z@outlook.com
 
 ## Education
 
-### **Tsinghua University, Beijing, CHINA** `2015.9 - 2020.7`
+**Tsinghua University, Beijing, CHINA** `2015.9 - 2020.7`
 
 - Ph.D. student in Computer Science (CS)
 - Supervisor: Prof. Jianping Wu; Co-supervisor: Dr. Qi Li
 
-### **City University of Hong Kong** `2017.12 – 2019.2`
+**City University of Hong Kong** `2017.12 – 2019.2`
 
 - Research assistant
 - Supervisor: Dr. Cong Wang
 
-### **Harbin Engineering University (HEU), Harbin, CHINA** `2011.9 – 2015.6`
+**Harbin Engineering University (HEU), Harbin, CHINA** `2011.9 – 2015.6`
 
 - B.S. in Computer Science
 
