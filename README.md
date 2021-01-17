@@ -1,12 +1,8 @@
-### 个人信息
-#### 姓名 福虾米
-
-
----
 
 # Xiaoli **ZHANG**
 xiaoli.z@outlook.com
 
+---
 
 ## Education
 
