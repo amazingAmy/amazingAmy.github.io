@@ -24,6 +24,7 @@ xiaoli.z@outlook.com
 ## Research Interests
 Trusted execution environment (SGX), verifiable network, cloud security
 
+---
 
 ## Publications
 
@@ -40,6 +41,8 @@ Trusted execution environment (SGX), verifiable network, cloud security
 6. **Xiaoli Zhang**, Qi Li, Jianping Wu, Jiahai Yang, "*Generic and agile service function chain verification on cloud*", in Proc. of IEEE/ACM International Symposium on Quality of Service (IWQoS), 2017. (CCF B, Acceptance ratio: 29/164 = 19.9%)
 
 7. **Xiaoli Zhang**, Cong Wang, Qi Li, Jianping Wu. "*Towards Comprehensive Network Verification: Practices, Challenges and Beyond*" [J]. IEEE Network, 2019. (JCR Q1, IF=7.503)
+
+---
 
 ## Honors & Awards
 - INFOCOM 2020 Student Conference Award, `2020` <br>
