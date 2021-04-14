@@ -45,7 +45,7 @@ Trusted execution environment (SGX), verifiable network, cloud security
 ---
 
 ## Honors & Awards
-- INFOCOM 2020 Student Conference Award, `2020` <br>
-- 天池首届SGX应用创意大赛, `2019`<br>
+- INFOCOM 2020 Student Travel Grant, `2020` <br>
+- 首届SGX应用创意大赛, `2019`<br>
 - National Scholarship, `2019.10, 2012.10`<br>
 - Outstanding Graduates of Beijing, `2020.6` <br>
