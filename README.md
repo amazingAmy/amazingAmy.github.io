@@ -52,7 +52,7 @@ Trusted Computing, Blockchain Security, Verifiable Network, Machine Learning Sec
 
 ## Research Projects
 
-- 2023, *Research on Key Technologies of Secure and Verifiable Distributed Machine Learning*, **Project Leader**, Zhejiang Provincial Natural Science Foundation of China.
+- *Research on Key Technologies of Secure and Verifiable Distributed Machine Learning*, **Project Leader**, Zhejiang Provincial Natural Science Foundation of China, 2023.
 
 
 ---
