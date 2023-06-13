@@ -29,14 +29,23 @@ Trusted Computing, Blockchain Security, Verifiable Network, Machine Learning Sec
 ##  Selected Publications
 
 1. **Xiaoli Zhang**, Wei Geng, Yiqiao Song, Hongbing Cheng, Ke Xu, Qi Li, "Privacy-preserving and Lightweight Verification of Deep Packet Inspection In Clouds"[J], IEEE/ACM Transactions on Networking (ToN), 2023, to appear. (CCF A, IF=3.796)
+
 2. Zhe Sun, Peng Zhao, Chunping Wang, **Xiaoli Zhang#**, Hongbing Cheng#, "An Efficient and Secure Trading Framework for Shared Charging Service based on Multiple Consortium Blockchains"[J], IEEE Transactions on Services Computing (TSC), 2022, doi: 10.1109/TSC.2022.3216659. (CCF A, IF=11.019, #corresponding authors)
+
 3. Zijie Yang, Jiahao Cao, Zhuotao Liu, **Xiaoli Zhang**, Kun Sun, Qi Li, "Good Learning, Bad Performance: A Novel Attack Against RL-Based Congestion Control Systems"[J], IEEE Transactions on Information Forensics and Security (TIFS), vol. 17, pp. 1069-1082, 2022, doi: 10.1109/TIFS.2022.3154244. (CCF A, IF=7.231)
+
 4. **Xiaoli Zhang**, Qi Li, Zeyu Zhang, Jianping Wu, Jiahai Yang, "vSFC: Generic and Agile Verification of Service Function Chains in the Cloud"[J], IEEE/ACM Transactions on Networking (ToN) 29, 1 (Feb. 2021), 78–91, doi: 10.1109/TNET.2020.3028846. (CCF A, IF=3.796)
+
 5. Zeyu Zhang*, **Xiaoli Zhang\***, Qi Li, Kun Sun, Yinqian Zhang, Songsong Liu, Jianping Wu, Yukun Liu, Xiaoning Li. "See through Walls: Detecting Malware in SGX Enclaves with SGX-Bouncer", in Proc. of ACM ASIACCS, 2021. (CCF C, *equal contribution, Acceptance ratio: 18.4%)
+
 6. Fengting Li, Xuankai Liu, **Xiaoli Zhang**, Qi Li, Kun Sun, Kang Li, "TaintRadar: A Generic Approach to Detecting Localized Adversarial Examples via Critical Region Analysis", in Proc. of IEEE International Conference on Computer Communications (INFOCOM), 2021. (CCF A, Acceptance ratio: 19.9%)
+
 7. **Xiaoli Zhang**, Fengting Li, Zeyu Zhang, Qi Li, Cong Wang, Jianping Wu, "Enabling Execution Assurance of Federated Learning at Untrusted Participants", in Proc. of IEEE International Conference on Computer Communications (INFOCOM), 2020. (CCF A, Acceptance ratio: 268/1354 = 19.8%)
+
 8. **Xiaoli Zhang**, Huayi Duan, Cong Wang, Qi Li, Jianping Wu, "Towards Verifiable Performance Measurement over In-the-Cloud Middleboxes", in Proc. of IEEE International Conference on Computer Communications (INFOCOM), 2019. (CCF A, Acceptance ratio: 288/1464 = 19.7%)
+
 9. **Xiaoli Zhang**, Qi Li, Jianping Wu, Jiahai Yang, "Generic and agile service function chain verification on cloud", in Proc. of IEEE/ACM International Symposium on Quality of Service (IWQoS), 2017. (CCF B, Acceptance ratio: 29/164 = 19.9%)
+
 10. **Xiaoli Zhang**, Cong Wang, Qi Li, Jianping Wu. "Towards Comprehensive Network Verification: Practices, Challenges and Beyond"[J]. IEEE Network, 2019. (JCR Q1, IF=10.294)
 
 ---
