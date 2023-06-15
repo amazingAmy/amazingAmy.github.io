@@ -30,7 +30,7 @@ Trusted Computing, Blockchain Security, Verifiable Network, Machine Learning Sec
 
 1. **Xiaoli Zhang**, Wei Geng, Yiqiao Song, Hongbing Cheng, Ke Xu, Qi Li, "*Privacy-preserving and Lightweight Verification of Deep Packet Inspection In Clouds*"[J], IEEE/ACM Transactions on Networking (ToN), 2023, to appear. (CCF A, IF=3.796)
 
-2. **Xiaoli Zhang**, Zhicheng Xu, Hongbing Cheng, Tong Che, Ke Xu, Weiqiang Wang, Wenbiao Zhao, Chunping Wang and Qi Li, “Secure Collaborative Learning in Mining Pool via Robust and Efficient Verification”, in Proc. of IEEE International Conference on Distributed Computing Systems (ICDCS),  2023, to appear. (CCF B, Acceptance ratio: 83/439=18.9%)
+2. **Xiaoli Zhang**, Zhicheng Xu, Hongbing Cheng, Tong Che, Ke Xu, Weiqiang Wang, Wenbiao Zhao, Chunping Wang and Qi Li, “*Secure Collaborative Learning in Mining Pool via Robust and Efficient Verification*”, in Proc. of IEEE International Conference on Distributed Computing Systems (ICDCS),  2023, to appear. (CCF B, Acceptance ratio: 83/439=18.9%)
 
 3. Zhe Sun, Peng Zhao, Chunping Wang, **Xiaoli Zhang#**, Hongbing Cheng#, "*An Efficient and Secure Trading Framework for Shared Charging Service based on Multiple Consortium Blockchains*"[J], IEEE Transactions on Services Computing (TSC), 2022, doi: 10.1109/TSC.2022.3216659. (CCF A, IF=11.019, #corresponding authors)
 
